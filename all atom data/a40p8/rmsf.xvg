@@ -1,0 +1,57 @@
+# This file was created Tue Jun 10 16:49:50 2025
+# Created by:
+#                  :-) GROMACS - gmx rmsf, 2021.3-UNCHECKED (-:
+# 
+# Executable:   /public3/soft/gromacs/2021.3/bin/gmx_mpi
+# Data prefix:  /public3/soft/gromacs/2021.3
+# Working dir:  /public3/home/scg7629/uut/a40_monomer/a40p8/md/rep_0/analysis/convergence
+# Command line:
+#   gmx_mpi rmsf -f ../200_750.xtc -s ../../prod.tpr -o rmsf.xvg -n ../index.ndx -res yes
+# gmx rmsf is part of G R O M A C S:
+#
+# GROtesk MACabre and Sinister
+#
+@    title "RMS fluctuation"
+@    xaxis  label "Residue"
+@    yaxis  label "(nm)"
+@TYPE xy
+    1   1.5723
+    2   1.3671
+    3   1.2660
+    4   1.0981
+    5   0.8642
+    6   0.7928
+    7   0.7306
+    8   0.7978
+    9   0.7928
+   10   0.9745
+   11   1.0450
+   12   1.1228
+   13   1.2007
+   14   0.9740
+   15   0.9364
+   16   0.8322
+   17   0.8238
+   18   0.8406
+   19   0.9088
+   20   0.9889
+   21   1.0110
+   22   1.2173
+   23   1.2133
+   24   1.2224
+   25   1.2021
+   26   1.1985
+   27   1.1850
+   28   1.1302
+   29   0.9663
+   30   0.9473
+   31   0.9649
+   32   1.0046
+   33   0.9966
+   34   1.0886
+   35   1.0883
+   36   1.1190
+   37   1.1658
+   38   1.2464
+   39   1.3697
+   40   1.4596
