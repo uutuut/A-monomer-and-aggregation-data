@@ -1,0 +1,57 @@
+# This file was created Tue Jun 10 16:50:45 2025
+# Created by:
+#                  :-) GROMACS - gmx rmsf, 2021.3-UNCHECKED (-:
+# 
+# Executable:   /public3/soft/gromacs/2021.3/bin/gmx_mpi
+# Data prefix:  /public3/soft/gromacs/2021.3
+# Working dir:  /public3/home/scg7629/uut/a40_monomer/a40/md/rep_0/analysis/convergence
+# Command line:
+#   gmx_mpi rmsf -f ../200_700.xtc -s ../../prod.tpr -o rmsf.xvg -n ../index.ndx -res yes
+# gmx rmsf is part of G R O M A C S:
+#
+# Great Red Oystrich Makes All Chemists Sane
+#
+@    title "RMS fluctuation"
+@    xaxis  label "Residue"
+@    yaxis  label "(nm)"
+@TYPE xy
+    1   1.7867
+    2   1.5780
+    3   1.4473
+    4   1.3053
+    5   1.2022
+    6   1.0794
+    7   1.0356
+    8   0.9058
+    9   0.7973
+   10   0.8546
+   11   0.7605
+   12   0.7148
+   13   0.7951
+   14   0.8787
+   15   0.8018
+   16   0.7886
+   17   0.7070
+   18   0.7674
+   19   0.9177
+   20   1.0436
+   21   1.2299
+   22   1.4179
+   23   1.3911
+   24   1.4133
+   25   1.3408
+   26   1.3080
+   27   1.2443
+   28   1.1501
+   29   0.9059
+   30   0.8048
+   31   0.7228
+   32   0.7300
+   33   0.7053
+   34   0.8114
+   35   0.8597
+   36   0.9502
+   37   1.0870
+   38   1.2304
+   39   1.4005
+   40   1.5058
