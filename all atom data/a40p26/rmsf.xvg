@@ -1,0 +1,57 @@
+# This file was created Tue Jun 10 16:49:03 2025
+# Created by:
+#                  :-) GROMACS - gmx rmsf, 2021.3-UNCHECKED (-:
+# 
+# Executable:   /public3/soft/gromacs/2021.3/bin/gmx_mpi
+# Data prefix:  /public3/soft/gromacs/2021.3
+# Working dir:  /public3/home/scg7629/uut/a40_monomer/a40p26/md/rep_0/analysis/convergence
+# Command line:
+#   gmx_mpi rmsf -f ../200_700.xtc -s ../../prod.tpr -o rmsf.xvg -n ../index.ndx -res yes
+# gmx rmsf is part of G R O M A C S:
+#
+# GROningen MAchine for Chemical Simulation
+#
+@    title "RMS fluctuation"
+@    xaxis  label "Residue"
+@    yaxis  label "(nm)"
+@TYPE xy
+    1   1.3420
+    2   1.0875
+    3   1.0159
+    4   0.8246
+    5   0.6809
+    6   0.7261
+    7   0.8475
+    8   0.9575
+    9   0.8775
+   10   0.9463
+   11   0.7706
+   12   0.8455
+   13   0.8697
+   14   0.7415
+   15   0.7412
+   16   0.7367
+   17   0.7998
+   18   0.9418
+   19   1.1007
+   20   0.9280
+   21   1.0299
+   22   1.2179
+   23   1.0780
+   24   1.0485
+   25   0.9024
+   26   0.8658
+   27   0.6983
+   28   0.8765
+   29   0.7307
+   30   0.7520
+   31   0.7838
+   32   0.7827
+   33   0.9343
+   34   1.0418
+   35   0.8741
+   36   0.7147
+   37   0.7071
+   38   0.7808
+   39   0.8976
+   40   1.0121
